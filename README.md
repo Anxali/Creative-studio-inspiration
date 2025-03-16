@@ -16,7 +16,6 @@ A minimalistic and responsive fashion-inspired website built with **HTML**, **CS
 
 ## 🎨 Customization
 - Modify styles in `styles.scss` and recompile using Sass.
-- Update images in the `assets/images` folder.
 
 ## 📜 License
 This project is open-source and free to use.
