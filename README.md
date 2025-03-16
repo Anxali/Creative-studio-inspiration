@@ -2,6 +2,8 @@
 
 A minimalistic and responsive fashion-inspired website built with **HTML**, **CSS**, and **Sass**.
 
+ https://anxali.github.io/Creative-studio-inspiration/
+
 ## 🌟 Features
 - **Minimal Design** – Clean, modern, and aesthetic UI.
 - **Fully Responsive** – Optimized for all screen sizes.
